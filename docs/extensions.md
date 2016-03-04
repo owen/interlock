@@ -10,8 +10,8 @@ Docker images from the Docker Hub for each extension.
 # Load Balancing
 The following load balancing extensions are supported:
 
-- [HAProxy](../extensions/haproxy.md)
-- [Nginx](../extensions/nginx.md)
+- [HAProxy](./extensions/haproxy.md)
+- [Nginx](./extensions/nginx.md)
 
 # Metrics
-- [Beacon](../extensions/beacon.md)
+- [Beacon](./extensions/beacon.md)
